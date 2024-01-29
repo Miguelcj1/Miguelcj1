@@ -9,8 +9,24 @@ Localizado em Braga, Portugal.
 
 ## Projetos realizados na Universidade
 
-- [Programação Orientada aos Objetos](https://github.com/Miguelcj1/Trabalho-POO-2021_2022) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+- [Programação Orientada aos Objetos](https://github.com/Miguelcj1/Trabalho-POO-2021_2022)
+- [Sistemas Operativos](https://github.com/Miguelcj1/Trabalho-SO-2021_2022)
 
+- [Sistemas Distribuidos](https://github.com/Miguelcj1/Trabalho-SD-2022-2023)
+- [Desenvolvimento de Sistemas de Software](https://github.com/Miguelcj1/Trabalho-DSS-2022-2023)
+- [Cálculo de Programas](https://github.com/Miguelcj1/Trabalho-CP-2022-2023)
+- [Comunicações por Computador](https://github.com/Miguelcj1/CC_TP2)
+- [Inteligência Artificial](https://github.com/Miguelcj1/Trabalho-IA-2022-2023)
+- [Laboratórios de Informática IV](https://github.com/Miguelcj1/Trabalho-LI4-2022-2023)
+
+- [Aprendizagem e Decisão Inteligentes](https://github.com/Miguelcj1/Trabalho-ADI-2022-2023)
+- [Computação Gráfica](https://github.com/Miguelcj1/Trabalho-CG-2022-2023)
+<!--- [Engenharia Web](https://github.com/Miguelcj1/Trabalho_EW_2022_2023) -->
+- [Processamento de Linguagens](https://github.com/Miguelcj1/Trabalho-PL-2022-2023)
+
+- [Computação Paralela](https://github.com/Miguelcj1/Trabalho-CP-2023-2024)
+- [Engenharia de Serviços em Rede](https://github.com/Miguelcj1/Trabalho-ESR-2023-2024)
+- [Dados e Aprendizagem Automática](https://github.com/Miguelcj1/Trabalho-DAA-2023-2024)
 - 
 
 
