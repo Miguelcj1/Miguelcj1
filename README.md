@@ -21,7 +21,7 @@ Localizado em Braga, Portugal.
 
 - [Aprendizagem e Decisão Inteligentes](https://github.com/Miguelcj1/Trabalho-ADI-2022-2023)
 - [Computação Gráfica](https://github.com/Miguelcj1/Trabalho-CG-2022-2023)
-- [Engenharia Web](https://github.com/Miguelcj1/Trabalho_EW_2022_2023)
+- [Engenharia Web](https://github.com/Miguelcj1/Trabalho-EW-2022-2023)
 - [Processamento de Linguagens](https://github.com/Miguelcj1/Trabalho-PL-2022-2023)
 
 - [Computação Paralela](https://github.com/Miguelcj1/Trabalho-CP-2023-2024)
