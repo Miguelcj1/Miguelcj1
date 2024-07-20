@@ -28,7 +28,7 @@ Localizado em Braga, Portugal.
 - [Engenharia de Serviços em Rede](https://github.com/Miguelcj1/Trabalho-ESR-2023-2024)
 - [Dados e Aprendizagem Automática](https://github.com/Miguelcj1/Trabalho-DAA-2023-2024)
 
-- [Arquitetura de Aplicações e Sistemas ](https://github.com/Miguelcj1/Trabalho-AA-SIC-2023-2024)
+- [Arquitetura de Aplicações e Sistemas Interativos Confiáveis](https://github.com/Miguelcj1/Trabalho-AA-SIC-2023-2024)
 
 
 
