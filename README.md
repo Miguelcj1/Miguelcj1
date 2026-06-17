@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 Licenciado em Engenharia Informática. Atualmente a frequentar o Mestrado em Engenharia Informática na Universidade do Minho.
+🎓 Mestre em Engenharia Informática (Universidade do Minho)
 
 Localizado em Braga, Portugal.
 
